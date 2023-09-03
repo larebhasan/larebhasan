@@ -1,6 +1,6 @@
 # 🏄‍♂️ Lareb Hasan
 
-** ` Student at Jamia Hamdard University ` **
+**` Student at Jamia Hamdard University `**
 
 
 
