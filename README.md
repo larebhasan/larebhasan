@@ -4,7 +4,7 @@
 
 <br>
 
-Hi there! 👋 I'm Lareb Hasan, a passionate computer science student from the land of code.
+Hi there! 👋 I'm Lareb Hasan, 👨‍💻 Aspiring IT Professional/Software Engineer with a passion for coding and problem-solving. 
 
 ## 📫 Contact Me
 
