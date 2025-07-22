@@ -17,10 +17,10 @@ Hi there! 👋 I'm Lareb Hasan, 👨‍💻 Aspiring IT Professional/Software En
 - **Tools:** Git, Android Studio, IntelliJ IDEA, VS Code 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <!-- Place your badge codes here -->
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" style="margin: 5px;">
+   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="margin: 5px;">
+   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px;">
+   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 5px;">
+
 </div>
 
 <!-- Footer -->
