@@ -12,10 +12,9 @@ Hi there! 👋 I'm Lareb Hasan, 👨‍💻 Aspiring IT Professional/Software En
 
 <!-- Skills -->
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Node.js
-- **Database:** MongoDB, PostgreSQL
-- **Tools:** Git, VS Code, Docker
+- **Languages:** Java, Kotlin, C++, HTML
+- **Android:** Jetpack Compose, XML, Basic UI design and Android concepts
+- **Tools:** Git, Android Studio, IntelliJ IDEA, VS Code 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <!-- Place your badge codes here -->
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 5px;">
