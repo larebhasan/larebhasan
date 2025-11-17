@@ -12,7 +12,7 @@ Hi there! 👋 I'm Lareb Hasan, 👨‍💻 Aspiring IT Professional/Software En
 
 <!-- Skills -->
 ## 🔧 Skills
-- **Languages:** Java, Kotlin, C++, HTML
+- **Languages:** Java, Kotlin, C, HTML
 - **Android:** Jetpack Compose, XML, Basic UI design and Android concepts
 - **Tools:** Git, Android Studio, IntelliJ IDEA, VS Code 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
