@@ -1,33 +1,32 @@
-# 🏄‍♂️ Lareb Hasan
+🏗️ Lareb Hasan
 
-**` Student at Jamia Hamdard University `**
+Student at Jamia Hamdard University
 
 <br>
 
-Hi there! 👋 I'm Lareb Hasan, 👨‍💻 Aspiring IT Professional/Software Engineer with a passion for coding and problem-solving. 
+Hi there! 👋 I'm Lareb Hasan, 👨‍💻 an aspiring DevOps / Cloud Engineer with a strong interest in automation, cloud infrastructure, and building reliable systems.
+I enjoy working with Linux, Docker, CI/CD pipelines, and cloud platforms, and I learn best by building real-world, hands-on projects.
 
-## 📫 Contact Me
+📫 Contact Me
 
-- Email: larebhasan2303@gmail.com
+Email: larebhasan2303@gmail.com
 
 <!-- Skills -->
-## 🔧 Skills
-- **Languages:** Java, Kotlin, C, HTML
-- **Android:** Jetpack Compose, XML, Basic UI design and Android concepts
-- **Tools:** Git, Android Studio, IntelliJ IDEA, VS Code 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <!-- Place your badge codes here -->
-   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java" style="margin: 5px;">
-   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px;">
-   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 5px;">
+🔧 Skills
 
-</div>
+Programming & Scripting: Python
 
-<!-- Footer -->
-<hr>
+DevOps & CI/CD: Docker, Jenkins, Git, GitHub
 
+Cloud Platforms: AWS (EC2)
 
+Operating Systems: Linux (Ubuntu)
 
-<p align="center">
-  Thanks for visiting my profile! Feel free to connect with me.
-</p>
+Databases: MySQL, SQLite
+
+Backend: Django
+
+Configuration & Security: Environment variables (.env), secrets management
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="margin: 5px;"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 5px;"> </div>
+<!-- Footer --> <hr> <p align="center"> Thanks for visiting my profile! Feel free to connect with me. </p>
