@@ -14,15 +14,15 @@ Email: larebhasan2303@gmail.com
 <!-- Skills -->
 🔧 Skills
 
-Programming & Scripting: Python
+Programming & Scripting: Python, Bash, Shell Scripting
 
 DevOps & CI/CD: Docker, Jenkins, Git, GitHub
 
-Cloud Platforms: AWS (EC2)
+Cloud Platforms: AWS EC2, S3, VPC, RDS, Lambda, etc.
 
-Operating Systems: Linux (Ubuntu)
+Operating Systems: Linux (Ubuntu), Amazon Linux
 
-Databases: MySQL, SQLite
+Databases: MySQL, SQLite, PosgreSQL
 
 Backend: Django
 
