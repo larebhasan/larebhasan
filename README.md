@@ -22,7 +22,7 @@ Architecture & Patterns: MVVM, Clean Architecture, UDF (Unidirectional Data Flow
 
 Android Core Components: Coroutines, Flow, Room Database, Navigation Component, WorkManager
 
-Networking & API: Retrofit, OkHttp, RESTful APIs
+Networking & API: Retrofit, Ktor, OkHttp, RESTful APIs
 
 Dependency Injection: Koin, Dagger/Hilt
 
