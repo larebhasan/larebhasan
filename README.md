@@ -4,8 +4,8 @@ Student at Jamia Hamdard University
 
 <br>
 
-Hi there! 👋 I'm Lareb Hasan, 👨‍💻 an aspiring DevOps / Cloud Engineer with a strong interest in automation, cloud infrastructure, and building reliable systems.
-I enjoy working with Linux, Docker, CI/CD pipelines, and cloud platforms, and I learn best by building real-world, hands-on projects.
+Hi there! 👋 I'm Lareb Hasan, 👨‍💻 an aspiring Android Developer with a strong passion for building intuitive, high-performance mobile applications.
+I specialize in modern Android development using Kotlin and the Jetpack Compose SDK, and I learn best by building real-world, user-centric projects.
 
 📫 Contact Me
 
@@ -14,19 +14,29 @@ Email: larebhasan2303@gmail.com
 <!-- Skills -->
 🔧 Skills
 
-Programming & Scripting: Python, Bash, Shell Scripting
+Languages: Kotlin, Java
 
-DevOps & CI/CD: Docker, Jenkins, Git, GitHub
+UI Toolkit: Jetpack Compose, XML Layouts
 
-Cloud Platforms: AWS EC2, S3, VPC, RDS, Lambda, etc.
+Architecture & Patterns: MVVM, Clean Architecture, UDF (Unidirectional Data Flow)
 
-Operating Systems: Linux (Ubuntu), Amazon Linux
+Android Core Components: Coroutines, Flow, Room Database, Navigation Component, WorkManager
 
-Databases: MySQL, SQLite, PosgreSQL
+Networking & API: Retrofit, OkHttp, RESTful APIs
 
-Backend: Django
+Dependency Injection: Koin, Dagger/Hilt
 
-Configuration & Security: Environment variables (.env), secrets management
+Version Control & Tools: Git, GitHub, Android Studio, Gradle
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" style="margin: 5px;"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" style="margin: 5px;"> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin: 5px;"> </div>
-<!-- Footer --> <hr> <p align="center"> Thanks for visiting my profile! Feel free to connect with me. </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white" alt="Jetpack Compose" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Coroutines-000000?style=flat&logo=kotlin&logoColor=white" alt="Coroutines" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" style="margin: 5px;">
+</div>
+<!-- Footer --> 
+<hr> 
+<p align="center"> 
+  Thanks for visiting my profile! Feel free to connect with me. 
+</p>
